@@ -27,8 +27,12 @@ A user should be able to:
 
 ## API, Libraries, Resources
 
-- https://financialmodelingprep.com/ (Requires sign-up to a free account)
-- https://www.highcharts.com/ HighCharts is an open-source library for rendering responsive charts.
+- https://financialmodelingprep.com/
+- https://www.highcharts.com/
+- https://reactjs.org/
+- https://expressjs.com/
+- https://nodejs.org/en/
+- https://www.mongodb.com/
 
 
 #
