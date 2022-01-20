@@ -27,7 +27,7 @@ A user should be able to:
 
 ## API, Libraries, Resources
 
-- https://financialmodelingprep.com/ (Requires an account)
+- https://financialmodelingprep.com/ (Requires sign-up to a free account)
 - https://www.highcharts.com/ HighCharts is an open-source library for rendering responsive charts.
 
 
@@ -39,3 +39,14 @@ A user should be able to:
 | `npm install`      | `npm install`        |
 | `npm start`        | `npm run seeds`      |
 |                    | `npm run server:dev` |
+
+** If cloning to run locally, you will need to sign-up to financial modelling prep and then create  a file in the project within  
+``` client/src/services ``` called ```apikey.js```
+
+then copy the below lines into the file, adding your api key where indicated:
+
+```
+export const apikey = '<insert api key>'
+export const apikeyPH = '<insert api key>' 
+```
+
