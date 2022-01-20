@@ -1,4 +1,4 @@
-# Shares Portfolio Application
+# Share Tracker Application
 
 Portfolio Tracker app allows a user to track their shareholding portfolio performance in real-time.
 #
