@@ -14,17 +14,16 @@ A user should be able to:
 
 - view total current value.
 - view individual and total performance trends.
-- retrieve a list of share prices from an external API and allow the user to add shares to her portfolio.
-- View a chart of the current values in her portfolio.
+- retrieve a list of share prices from an external API and add shares to their portfolio.
+- View a chart of the current values in their portfolio.
 
 ## Extensions
 
 - View current share price of individual shareholdings.
-- View average and total paid prices of individual shares in the portfolio.
-- View a chart of total paid price, total value, profit, or loss.
-- Implement a search box to find a specific stock from an external API.
-- Temporarily add searched and selected stock to compare.
-- Display line chart for share price performance over last 3 months.
+- View average and total paid prices for individual shares in the portfolio.
+- View a chart of total paid price, total value and profit/loss.
+- Implement a search box to find a specific stock using external API data.
+- Compare past share performance data for any publicly traded company.
 
 ## API, Libraries, Resources
 
