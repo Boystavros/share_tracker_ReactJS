@@ -3,14 +3,6 @@
 Portfolio Tracker app allows a user to track their shareholding portfolio performance in real-time.
 #
 
-Screenshot of Discover page:
-![Screenshot of Portfolio page](images/discoverPage.png "Discover Page")
-
-Screenshot of Portfolio page:
-![Screenshot of Discover page](images/portfolioPage.png "Portfolio Page")
-
-
-
 ## Project brief
 
 A local trader has come to you with a portfolio of shares. She wants to be able to analyse it more effectively. She has a small sample data set to give you and would like you to build a Minimum Viable Product (MVP) that uses the data to display her portfolio so that she can make better decisions.
@@ -32,6 +24,16 @@ A user should be able to:
 - View a chart of total paid price, total value and profit/loss.
 - Implement a search box to find a specific stock using external API data.
 - Compare past share performance data for any publicly traded company.
+
+## Screenshots
+
+Discover area:
+
+![Screenshot of Portfolio page](images/discoverPage.png "Discover Page")
+
+Portfolio area:
+
+![Screenshot of Discover page](images/portfolioPage.png "Portfolio Page")
 
 ## API, Libraries, Resources
 
