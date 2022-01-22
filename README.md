@@ -3,9 +3,9 @@
 Portfolio Tracker app allows a user to track their shareholding portfolio performance in real-time.
 #
 
-<!-- ![Screenshot of Portfolio page](./client/public/portfolioPage.png?raw=true) -->
+![Screenshot of Portfolio page](images/discoverPage.png)
 
-<!-- ![Screenshot of Discover page](./client/public/discoverPage.png) -->
+![Screenshot of Discover page](images/portfolioPage.png)
 
 
 
